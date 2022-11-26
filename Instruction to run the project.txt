@@ -1,0 +1,12 @@
+Things need to  be install before running the test
+
+1. Java SDK 17
+2. Maven
+3. Plugin cucumber for java in Intelij IDEA
+4. Import some dependency (https://mvnrepository.com/) into pom.xml
+	- cucumber for java
+	- Junit
+	- cucumber-junit
+	- selenium-java
+	- cucumber-reporting
+	- webdriver-manager
